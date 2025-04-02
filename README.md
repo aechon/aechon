@@ -31,6 +31,6 @@ I'm a Software Developer with a passion for problem solving and building clean, 
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/ahronowski)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahronowski)
 - 🧠 [Portfolio Website](https://aechon.github.io/)
 - 📫 Reach me at: tony@amxlabs.com
